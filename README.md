@@ -1,6 +1,7 @@
 # automationPreInterviewTest
 Automation pre-interview test 
 Readme
+...........
 
 There are a number of noteworthy observations that needs to be addressed.
 The test steps are wrong (incomplete to be precise). A complete workable automation cannot be built around it as it has many missing steps.
