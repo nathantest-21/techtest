@@ -1,8 +1,8 @@
 ﻿Prerequisites
-The newReg.js can be executed in any IDE with minimum know-how.
+The newReg2.js can be executed in any IDE with minimum know-how.
 
 
-In order to execute the test newReg.side Selenium IDE has to have been installed on the preferred browser.
+In order to execute the test newReg2.side Selenium IDE has to have been installed on the preferred browser.
 
 
 In order to run the test in Command-Line, the following steps should be followed
