@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"newregtest","c":"FirstNewUser","l":"FirstNewUser()","u":"%3Cinit%3E()"},{"p":"newregtest","c":"FirstNewUser","l":"newUserSignUp()"},{"p":"newregtest","c":"FirstNewUser","l":"setUp()"},{"p":"newregtest","c":"FirstNewUser","l":"tearDown()"}];updateSearchResults();
