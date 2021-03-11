@@ -1,9 +1,7 @@
 Feature: New Registration
 
 
-Scenario Outline: 
-		As a stakeholder, I want to be able to create a registration successfully with password including:  
-		character long,one number & one special character.
+Scenario Outline: As a stakeholder, I want to be able to create a registration successfully with password including:character long,one number & one special character.
 
     Given I launch the url 'https://moneygaming.qa.gameaccount.com' 
     And   I select the 'JOIN NOW' button
